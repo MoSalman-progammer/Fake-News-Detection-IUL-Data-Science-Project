@@ -1,2 +1,2 @@
-# Fake-News-Detection-IUL-Data-Science-Project
+# Fake News Detection
 Project Not Started
