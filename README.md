@@ -1,2 +1,9 @@
+
+
 # Fake News Detection
-Project Not Started
+
+**Project  Aim** *"Identifying fake news articles using text patterns."*
+
+#
+**Project Not Started Yet.**
+
