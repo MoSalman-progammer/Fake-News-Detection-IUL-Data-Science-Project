@@ -419,4 +419,3 @@ Integral University
 ## Disclaimer
 
 This project was developed for academic and educational purposes. Its output is a machine-learning classification based on patterns learned from a particular dataset. It is not a definitive determination of whether a news article, publisher, or claim is authentic. Users should consult reliable sources and independent fact-checking evidence before making decisions based on news content.
-'''
