@@ -167,7 +167,6 @@ Fake-News-Detection-IUL-Data-Science-Project/
 └── .gitignore
 ```
 
-The screenshot names above are the expected names for the screenshots documented in this README. If your actual filenames differ, update the Markdown image paths to match the files in your `screenshots/` folder. The `plots/` folder may contain generated plots separately from presentation screenshots.
 
 ## Methodology
 
