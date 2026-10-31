@@ -83,9 +83,23 @@ News_dataset/
 
 **Dataset availability note:** The CSV files are large (together over 100 MB). They may not be included in a standard GitHub repository because GitHub blocks regular Git files larger than 100 MB. If they are not committed, obtain them from the dataset source and place them in `News_dataset/`. Git LFS or a documented external download location can be used if redistribution is permitted.
 
-### Dataset provenance and citation
+### Dataset Source and Acknowledgement
 
-The project uses the commonly circulated Fake/True news CSV dataset. The research papers below are relevant background references for fake-news text classification and n-gram-based machine learning. They should be cited as research references, not described as the direct creator or uploader of the CSV files unless the dataset documentation explicitly establishes that relationship.
+The dataset used in this project is the **ISOT Fake News Dataset**, developed and made available by the **ISOT Research Lab at the University of Victoria, Canada**.
+
+The dataset contains two files:
+- `Fake.csv` – articles classified as fake news.
+- `True.csv` – articles classified as true news.
+
+The dataset is used for academic and research purposes to develop and evaluate a machine learning-based fake news text classification system.
+
+**Acknowledgement:** We acknowledge the ISOT Research Lab at the University of Victoria for making this dataset available to the research community.
+
+1. Ahmed H, Traore I, Saad S. “Detecting opinion spams and fake news using text classification”, Journal of Security and Privacy, Volume 1, Issue 1, Wiley, January/February 2018.
+
+2. Ahmed H, Traore I, Saad S. (2017) “Detection of Online Fake News Using N-Gram Analysis and Machine Learning Techniques. In: Traore I., Woungang I., Awad A. (eds) Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments. ISDDC 2017. Lecture Notes in Computer Science, vol 10618. Springer, Cham (pp. 127-138).
+
+**Dataset reference:** [ISOT Fake News Dataset](https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/)
 
 **Dataset download/source page:**
 [Fake and Real News Dataset – Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
@@ -96,13 +110,6 @@ Please retain the dataset provider's attribution and follow the licence/terms sh
 
 The project is informed by the following publications:
 
-1. Ahmed, H., Traore, I., & Saad, S. (2018). “Detecting opinion spams and fake news using text classification.” *Security and Privacy*, 1(1), e9. Wiley.
-   https://doi.org/10.1002/spy2.9
-
-2. Ahmed, H., Traore, I., & Saad, S. (2017). “Detection of Online Fake News Using N-Gram Analysis and Machine Learning Techniques.” In I. Traore, I. Woungang, & A. Awad (Eds.), *Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments*. Lecture Notes in Computer Science, vol. 10618, pp. 127–138. Springer, Cham.
-   https://doi.org/10.1007/978-3-319-69155-8_9
-
-These publications provide research context for using textual features and machine-learning methods to detect fake news. They are not a claim that this project reproduces the exact methods or experimental results of those papers.
 
 ## Technologies and Libraries
 
