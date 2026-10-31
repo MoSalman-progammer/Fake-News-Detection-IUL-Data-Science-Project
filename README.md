@@ -11,7 +11,7 @@ An academic Data Science project that explores whether a news article can be cla
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Dataset](#dataset)
-- [Research Background and References](#research-background-and-references)
+- [Dataset Source and Acknowledgement](#Dataset-Source-and-Acknowledgement)
 - [Technologies and Libraries](#technologies-and-libraries)
 - [Repository Structure](#repository-structure)
 - [Methodology](#methodology)
@@ -105,11 +105,6 @@ The dataset is used for academic and research purposes to develop and evaluate a
 [Fake and Real News Dataset – Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 Please retain the dataset provider's attribution and follow the licence/terms shown on the source page when downloading, using, or redistributing the data.
-
-## Research Background and References
-
-The project is informed by the following publications:
-
 
 ## Technologies and Libraries
 
