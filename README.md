@@ -133,7 +133,10 @@ Fake-News-Detection-IUL-Data-Science-Project/
 │   └── Fake_News_Detection.ipynb
 │
 ├── plots/
-│
+│   ├── confusion_matrix.png
+│   ├── dataset_distribution.png
+│   ├── model_comparison.png
+│   └── project_workflow.png
 ├── screenshots/
 │   ├── 01_dataset_overview.png
 │   ├── 02_data_cleaning.png
